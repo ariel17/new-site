@@ -11,10 +11,7 @@
 [Oswald](https://fonts.google.com/specimen/Oswald?query=oswal&preview.text=I%20am%20a%20developer%20and%20I%20want%20to%20build%20things.&preview.text_type=custom)
 ![Oswald font example](./images/oswald.png)
 
-## Color schemes
+## Color scheme
 
 [Coolors #8](https://coolors.co/4c191b-963d5a-c589e8-e3daff-ecfff8)
 ![Coolors #8](./images/coolors8.png)
-
-[Coolors #12](https://coolors.co/b2abf2-89043d-2fe6de-1c3041-18f2b2)
-![Coolors #12](./images/coolors12.png)
