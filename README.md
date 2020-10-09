@@ -3,8 +3,8 @@
 
 ## Fonts
 
-[Roboto](https://fonts.google.com/specimen/Roboto?preview.text=Ariel%20Gerardo%20R%C3%ADos&preview.text_type=custom)
-![Roboto font example](./images/roboto.png)
+[Poppins](https://fonts.google.com/specimen/Poppins?preview.text=Ariel%20Gerardo%20R%C3%ADos&preview.text_type=custom)
+![Poppins font example](./images/poppins.png)
 
 [Pairing Roboto with font.io](http://typ.io/fonts/roboto#:~:text=Roboto%20is%20a%20sans%2Dserif,21px%20a%20shot%20for%20content.)
 
