@@ -13,12 +13,6 @@
 
 ## Color schemes
 
-[Coolors #1](https://coolors.co/542344-bfd1e5-ebf5ee-d8bfaa-808080)
-![Coolors #1](./images/coolors1.png)
-
-[Coolors #5](https://coolors.co/b37ba4-d99ac5-dccde8-14bdeb-00100b)
-![Coolors #5](./images/coolors5.png)
-
 [Coolors #8](https://coolors.co/4c191b-963d5a-c589e8-e3daff-ecfff8)
 ![Coolors #8](./images/coolors8.png)
 
