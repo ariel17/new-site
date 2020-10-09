@@ -22,9 +22,6 @@
 [Coolors #3](https://coolors.co/c2f970-44344f-564d80-98a6d4-d3fcd5)
 ![Coolors #3](./images/coolors3.png)
 
-[Coolors #4](https://coolors.co/0a2239-53a2be-1d84b5-132e32-176087)
-![Coolors #4](./images/coolors4.png)
-
 [Coolors #5](https://coolors.co/b37ba4-d99ac5-dccde8-14bdeb-00100b)
 ![Coolors #5](./images/coolors5.png)
 
