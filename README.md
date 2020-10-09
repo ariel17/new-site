@@ -19,9 +19,6 @@
 [Coolors #2](https://coolors.co/9ebc9e-ffcfd2-ffafc5-553e4e-e0479e)
 ![Coolors #2](./images/coolors2.png)
 
-[Coolors #3](https://coolors.co/c2f970-44344f-564d80-98a6d4-d3fcd5)
-![Coolors #3](./images/coolors3.png)
-
 [Coolors #5](https://coolors.co/b37ba4-d99ac5-dccde8-14bdeb-00100b)
 ![Coolors #5](./images/coolors5.png)
 
@@ -30,9 +27,6 @@
 
 [Coolors #8](https://coolors.co/4c191b-963d5a-c589e8-e3daff-ecfff8)
 ![Coolors #8](./images/coolors8.png)
-
-[Coolors #9](https://coolors.co/9e0031-8e0045-770058-600047-44001a)
-![Coolors #9](./images/coolors9.png)
 
 [Coolors #10](https://coolors.co/283044-78a1bb-ebf5ee-bfa89e-8b786d)
 ![Coolors #10](./images/coolors10.png)
