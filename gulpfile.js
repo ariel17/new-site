@@ -12,4 +12,9 @@ function style() {
         pipe(gulp.dest('public'));
 }
 
-exports.default = gulp.series(clean, style);
+function webfonts() {
+    return gulp.src('./node_modules/@fortawesome/fontawesome-free/webfonts/**/*').
+        pipe(gulp.dest('public'));
+}
+
+exports.default = gulp.series(clean, style, webfonts);
