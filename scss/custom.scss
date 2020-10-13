@@ -11,12 +11,32 @@
 $poppins-font: 'Poppins', sans-serif;
 $oswald-font: 'Oswald', sans-serif;
 
-body {
+html, body {
     font-family: $poppins-font;
     font-weight: normal;
+    height: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $oswald-font;
   font-weight: normal;
 }
+
+.presentation {
+    height: 100%;
+    .row {
+        margin: 7vh 0;
+    }
+}
+
+.role {
+  font-size: 4em;
+}
+
+.social {
+  font-size: 2.5em;
+  a {
+    text-decoration: none;
+    color: black;
+  }
+ }
