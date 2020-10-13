@@ -95,3 +95,5 @@ tags
 # Persistent undo
 [._]*.un~
 
+# Gulp vendor artifacts
+scss/fontawesome
