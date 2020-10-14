@@ -11774,7 +11774,9 @@ readers do not read off random characters that represent icons */
 html, body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
-  height: 100%; }
+  height: 100%;
+  background-color: #3d405bff;
+  color: #f4f1deff; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Oswald", sans-serif;
@@ -11792,4 +11794,4 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2.5em; }
   .social a {
     text-decoration: none;
-    color: black; }
+    color: #f4f1deff; }

@@ -11,10 +11,18 @@
 $poppins-font: 'Poppins', sans-serif;
 $oswald-font: 'Oswald', sans-serif;
 
+$eggshell: #f4f1deff;
+$terra-cotta: #e07a5fff;
+$independence: #3d405bff;
+$green-sheen: #81b29aff;
+$deep-champagne: #f2cc8fff;
+
 html, body {
     font-family: $poppins-font;
     font-weight: normal;
     height: 100%;
+    background-color: $independence;
+    color: $eggshell;
 }
 
 h1, h2, h3, h4, h5, h6 {
@@ -37,6 +45,6 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 2.5em;
   a {
     text-decoration: none;
-    color: black;
+    color: $eggshell;
   }
  }

@@ -13,5 +13,5 @@
 
 ## Color scheme
 
-[Coolors #8](https://coolors.co/4c191b-963d5a-c589e8-e3daff-ecfff8)
-![Coolors #8](./images/coolors8.png)
+[Coolors](https://coolors.co/f4f1de-e07a5f-3d405b-81b29a-f2cc8f)
+![Coolors](./images/coolors.png)
