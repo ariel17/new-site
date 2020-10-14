@@ -11774,21 +11774,34 @@ readers do not read off random characters that represent icons */
 html, body {
   font-family: "Poppins", sans-serif;
   font-weight: normal;
-  height: 100%;
-  background-color: #3d405bff;
-  color: #f4f1deff; }
+  height: 100%; }
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Oswald", sans-serif;
   font-weight: normal; }
 
-.presentation {
-  height: 100%; }
-  .presentation .row {
-    margin: 7vh 0; }
 
-.role {
-  font-size: 4em; }
+.container-fluid,
+.container-sm,
+.container-md,
+.container-lg,
+.container-xl {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%; }
+
+.presentation {
+  height: 100%;
+  width: 100%;
+  margin: 0;
+  padding: 0;
+  background-color: #3d405bff;
+  color: #f4f1deff; }
+  .presentation .row {
+    padding: 5vh 0 2vh; }
+  .presentation h1 {
+    font-size: 6em; }
 
 .social {
   font-size: 2.5em; }
