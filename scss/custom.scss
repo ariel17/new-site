@@ -28,6 +28,10 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: normal;
 }
 
+.nav {
+    background-color: transparent;
+}
+
 .container-fluid {
     margin: 0;
     padding: 0;
@@ -41,12 +45,12 @@ h1, h2, h3, h4, h5, h6 {
     margin: 0;
     padding: 0;
     .row {
-        padding: 5vh 0 2vh;
+        padding: 20vh 0 10vh;
     }
     background-color: $independence;
     color: $eggshell;
     h1 {
-        font-size: 6em;
+        font-size: 5em;
     }
 }
 

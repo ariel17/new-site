@@ -11780,6 +11780,9 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Oswald", sans-serif;
   font-weight: normal; }
 
+.nav {
+  background-color: transparent; }
+
 
 .container-fluid,
 .container-sm,
@@ -11799,9 +11802,9 @@ h1, h2, h3, h4, h5, h6 {
   background-color: #3d405bff;
   color: #f4f1deff; }
   .presentation .row {
-    padding: 5vh 0 2vh; }
+    padding: 20vh 0 10vh; }
   .presentation h1 {
-    font-size: 6em; }
+    font-size: 5em; }
 
 .social {
   font-size: 2.5em; }
