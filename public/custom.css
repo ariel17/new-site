@@ -11780,29 +11780,17 @@ h1, h2, h3, h4, h5, h6 {
   font-family: "Oswald", sans-serif;
   font-weight: normal; }
 
-.nav {
-  background-color: transparent; }
-
 
 .container-fluid,
 .container-sm,
 .container-md,
 .container-lg,
 .container-xl {
-  margin: 0;
-  padding: 0;
-  height: 100%;
-  width: 100%; }
+  padding: 0; }
 
 .presentation {
-  height: 100%;
-  width: 100%;
-  margin: 0;
-  padding: 0;
   background-color: #3d405bff;
   color: #f4f1deff; }
-  .presentation .row {
-    padding: 20vh 0 10vh; }
   .presentation h1 {
     font-size: 5em; }
 
