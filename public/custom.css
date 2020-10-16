@@ -11799,3 +11799,9 @@ h1, h2, h3, h4, h5, h6 {
   .social a {
     text-decoration: none;
     color: #f4f1deff; }
+
+@media (min-width: 576px) {
+  .presentation h1 {
+    font-size: 10em; }
+  .social {
+    font-size: 7em; } }
